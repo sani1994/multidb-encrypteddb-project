@@ -1,0 +1,9 @@
+Steps:
+    - Git clone project.
+    - install python3.9
+    - Create virtual environment with python3.9
+    - Install all the plugin from plugins.txt.
+    - Create database's as per the database.py info.
+    - run makemigration and migrate command.
+    - create a super user using django command.
+    - input data ans test.
