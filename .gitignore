@@ -1,0 +1,9 @@
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+venv/
+database.py
+.env
+migrations/
